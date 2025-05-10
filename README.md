@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hey, I'm Jenish!
 
-<!--
-**jenish96/jenish96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Passionate Full-Stack Developer | MERN Stack Enthusiast | Code Lover
 
-Here are some ideas to get you started:
+## ⚡ About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🛠️ I specialize in **React.js**, **Node.js**, **MongoDB**, **MySQL**
+- 🎓 Learning by building — practical, hands-on approach!
+- 🌐 Experienced with REST APIs, authentication, and scalable UIs
+- 💡 Focused on performance, clean code, and teamwork
+- 🎯 Always curious — exploring new tech & patterns
+
+## 💻 Tech Stack
+
+- 🚀 Frontend: `React.js`, `Next.js`, `Tailwind CSS`, `JavaScript`
+- 🧠 Backend: `Node.js`, `Express.js`
+- 🗄️ Database: `MongoDB`, `MySQL`
+- 🧰 Tools: `Git`, `Postman`, `VS Code`
+
+## 📬 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jenishborda)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)](https://github.com/jenish96)
+[![Email](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jenishborda@gmail.com)
+
+_Thanks for visiting my profile! ⭐_
