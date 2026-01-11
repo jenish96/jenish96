@@ -4,7 +4,7 @@
 
 ## ⚡ About Me
 
-- 🛠️ I specialize in **React.js**, **Node.js**, **MongoDB**, **MySQL**
+- 🛠️ I specialize in **React.js**, **Next.js**, **Node.js**.
 - 🎓 Learning by building — practical, hands-on approach!
 - 🌐 Experienced with REST APIs, authentication, and scalable UIs
 - 💡 Focused on performance, clean code, and teamwork
@@ -12,7 +12,7 @@
 
 ## 💻 Tech Stack
 
-- 🚀 Frontend: `React.js`, `Next.js`, `Tailwind CSS`, `JavaScript`
+- 🚀 Frontend:  `HTML`,  `CSS`,  `JavaScript`, `React.js`, `Next.js`, `Redux`, `Typescript`, `Tailwind CSS`
 - 🧠 Backend: `Node.js`, `Express.js`
 - 🗄️ Database: `MongoDB`, `MySQL`
 - 🧰 Tools: `Git`, `Postman`, `VS Code`
