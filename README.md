@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=3B82F6&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Jenish+Borada+%F0%9F%91%8B;Frontend+Engineer+%C2%B7+React+%C2%B7+Next.js+%C2%B7+TypeScript;I+build+UIs+for+AI+agents+%F0%9F%A4%96;From+pixel+to+API+to+database" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=3B82F6&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Jenish+Borada+%F0%9F%91%8B;Frontend+Engineer+%C2%B7+React+%C2%B7+Next.js+%C2%B7+TypeScript;I+build+UIs+for+AI+agents+%F0%9F%A4%96;From+pixel+to+API+to+database" alt="Typing intro" />
 
 <p>
   <a href="https://drive.google.com/file/d/1_eY_f8Nqzd9Ch0pyVX-fZyl3X7Qfc2FC/view?usp=sharing"><img src="https://img.shields.io/badge/📄_View_My_Resume-3B82F6?style=for-the-badge" alt="Resume"/></a>
